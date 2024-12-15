@@ -1,0 +1,165 @@
+{
+    "1077282123704193044": {
+        "name": "Kimi",
+        "gpt": false
+    },
+    "logs": [
+        {
+            "action": "game",
+            "user": "eyesking",
+            "details": "Zahl 35 in 7 Versuchen erraten",
+            "timestamp": "2024-08-28 20:21:40"
+        },
+        {
+            "action": "meme",
+            "user": "eyesking",
+            "details": "Meme abgerufen: https://i.redd.it/i4w8c2vbx4ld1.png",
+            "timestamp": "2024-08-28 20:30:55"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-28 20:31:11"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-28 20:31:26"
+        },
+        {
+            "action": "timeout_error",
+            "user": "Carl-bot",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-28 20:31:27"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-28 20:31:55"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-28 20:32:13"
+        },
+        {
+            "action": "meme",
+            "user": "eyesking",
+            "details": "Meme abgerufen: https://i.redd.it/hf80fr3hg4ld1.png",
+            "timestamp": "2024-08-28 20:32:16"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-28 20:32:30"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-28 20:32:39"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-29 12:42:06"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-29 12:42:14"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-29 12:42:22"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-29 12:43:39"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-29 12:45:46"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-29 12:46:50"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-29 12:46:54"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-08-29 12:49:41"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-09-08 11:15:35"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-09-08 11:16:12"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-09-08 11:16:16"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-09-08 11:28:18"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-09-08 11:28:20"
+        },
+        {
+            "action": "timeout_error",
+            "user": "eyesking",
+            "details": "Fehler beim Timeout: 403 Forbidden (error code: 50013): Missing Permissions",
+            "timestamp": "2024-09-08 11:33:17"
+        },
+        {
+            "action": "meme",
+            "user": "eyesking",
+            "details": "Meme abgerufen: https://i.redd.it/rcxkwiz4ct6e1.gif",
+            "timestamp": "2024-12-14 21:31:05"
+        },
+        {
+            "action": "meme",
+            "user": "eyesking",
+            "details": "Meme abgerufen: https://i.redd.it/nstdjktbte6e1.png",
+            "timestamp": "2024-12-15 11:17:00"
+        }
+    ],
+    "activated": true
+}
